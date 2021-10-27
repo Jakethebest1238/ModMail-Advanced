@@ -6,13 +6,3 @@ To the user, the entire process happens in DMs with the bot.
 
 Make sure to install Discord.js when using the bot.
 
-## Getting started
-* **[🛠️ Setting up the bot](docs/setup.md)**
-* **[✨ Updating the bot](docs/updating.md)**
-* **[🙋 Frequently Asked Questions](docs/faq.md)**
-* [📝 Configuration](docs/configuration.md)
-* [🤖 Commands](docs/commands.md)
-* [📋 Snippets](docs/snippets.md)
-* [🧩 Plugins](docs/plugins.md)
-* [📌 Release notes](CHANGELOG.md)
-
